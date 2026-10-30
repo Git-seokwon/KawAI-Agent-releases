@@ -1,0 +1,39 @@
+KawAI-Agent 시험판 이용 조건
+============================
+
+이 프로그램을 쓰면 아래 조건에 동의한 것으로 봐요.
+
+1. 시험판이에요
+   이 프로그램은 만드는 중인 시험판이에요. 있는 그대로 드리며, 어떤 보증도 하지 않아요.
+   프로그램을 쓰다 생긴 손해(파일이 지워지거나 바뀐 것 포함)는 만든 사람이 책임지지 않아요.
+   파일을 고치거나 명령을 실행하는 일은 매번 허락을 묻지만, 무엇을 허락하는지 꼭 읽고 눌러 주세요.
+
+2. 받은 곳에서 받아 써 주세요
+   https://github.com/Git-seokwon/KawAI-Agent-releases 에서 받아 쓰는 것은 괜찮아요.
+   받은 파일을 다른 곳에 다시 올리지 말고, 알려 주고 싶으면 이 주소를 알려 주세요.
+
+3. 사용 제한 (Gemma 모델)
+   이 프로그램에는 Google의 Gemma 모델(EmbeddingGemma, 말풍선에서 같은 질문을 찾는 데 써요)이 들어 있어요.
+   이 프로그램과 그 안의 Gemma 모델을 다음 일에 쓰면 안 돼요. 이 조항은 이 이용 조건의 일부이고, 지켜야 하는 조건이에요.
+   - Gemma 금지된 이용 정책에 적힌 일
+     (사본: Assets\Embedding\GEMMA_PROHIBITED_USE_POLICY.txt, 원문: ai.google.dev/gemma/prohibited_use_policy)
+   - 법과 규정을 어기는 일
+
+   You must not use this software, or the Gemma model it contains, (a) for the restricted uses set forth in the
+   Gemma Prohibited Use Policy at ai.google.dev/gemma/prohibited_use_policy, or (b) in violation of applicable laws
+   and regulations. Gemma is subject to these use restrictions.
+
+   Gemma is provided under and subject to the Gemma Terms of Use found at ai.google.dev/gemma/terms
+   (약관 사본: Assets\Embedding\GEMMA_TERMS_OF_USE.txt, 고친 파일 안내: Assets\Embedding\NOTICE.txt)
+
+4. AI 회사 키와 요금
+   직접 넣은 AI 회사 키(API 키)로 쓴 요금은 키 주인이 내요.
+   키는 이 PC에 Windows가 암호화해 저장하고, 고른 AI 회사에만 보내요.
+   대화 내용은 고른 AI 회사로 보내지고, 그 회사의 약관과 개인정보 정책을 따라요.
+
+5. 내 데이터
+   설정·대화 기록·캐릭터 상태는 이 PC의 %APPDATA%\KawAI-Agent 폴더에만 저장돼요.
+   만든 사람에게 자동으로 보내는 것은 없어요.
+
+6. 다른 부품의 라이선스
+   Legal\THIRD-PARTY-NOTICES.txt, Assets\Fonts\FONT-LICENSES.txt, Assets\Embedding\NOTICE.txt
